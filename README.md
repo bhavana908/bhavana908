@@ -1,6 +1,5 @@
-<h1 align="center">Hi, I'm Bhavana 👋</h1>
-<h3 align="center">AI Student • Future FinTech Engineer • Builder in Progress 🚀</h3>
-
+<h1 align="center">Hi, I'm Bhavana priya 👋</h1>
+<h3 align="center"> Student • Tech Explorer • Builder in Progress 🚀</h3>
 
 
 ---
@@ -8,10 +7,10 @@
 ## 💫 About Me
 
 - 🎓 Starting my **B.Tech in Artificial Intelligence**
-- 💸 Interested in building technology for the **FinTech industry**
-- 🧠 Exploring problem-solving through real-world tech projects
+- 🧠 Passionate about solving real-world problems using technology
 - 🚀 Actively participating in hackathons & technical communities
-- 🌱 Currently improving my foundations in **Data Structures, JavaScript & Core CS**
+- 🌱 Currently strengthening foundations in **Data Structures, JavaScript & Core CS**
+- 💡 Exploring AI, development, and system-level thinking
 
 I believe in building early, learning fast, and growing consistently.
 
@@ -22,7 +21,7 @@ I believe in building early, learning fast, and growing consistently.
 ### 👩‍💻 Languages
 - JavaScript  
 - Python  
-- C  
+- C++  
 
 ### 🌐 Web & Tools
 - HTML  
@@ -41,24 +40,23 @@ I believe in building early, learning fast, and growing consistently.
 ## 🎯 2026 Goals
 
 - 🏗 Build strong DSA problem-solving skills  
-- 💡 Develop at least 3 meaningful projects (AI/FinTech-focused)  
+- 💡 Develop meaningful AI-based projects  
 - 🏆 Participate in national-level hackathons  
 - 🌍 Contribute to open-source  
 - 💼 Secure competitive internships  
 
 ---
 
-
+## 📊 GitHub Stats
 
 
 ---
 
 ## 🌸 A Little More About Me
 
-- I like mixing logic with creativity.
-- I believe consistency > motivation.
 - Calm on the outside, competitive on the inside.
-- Here to build things that actually matter.
+- Consistency > motivation.
+- Always curious, always building.
 
 ---
 
@@ -70,7 +68,7 @@ I believe in building early, learning fast, and growing consistently.
 ---
 
 <p align="center">
-  <i>“Building today for the systems I want to see tomorrow.”</i>
+  <i>“Building today for the systems of tomorrow.”</i>
 </p>
 
-
+ 
