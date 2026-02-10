@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bhavana 👋</h1>
-<h3 align="center">AI/ML Student • Future FinTech Engineer • Builder in Progress 🚀</h3>
+<h3 align="center">AI Student • Future FinTech Engineer • Builder in Progress 🚀</h3>
 
 
 
