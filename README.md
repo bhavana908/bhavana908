@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bhavana priya 👋</h1>
-<h3 align="center"> Student • Tech Explorer • Builder in Progress 🚀</h3>
+<h3 align="center"> Student • Tech Explorer </h3>
 
 
 ---
